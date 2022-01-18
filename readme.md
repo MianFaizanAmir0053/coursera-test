@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Faizan's Repository
 
 You can use the [editor on GitHub](https://github.com/MianFaizanAmir0053/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
